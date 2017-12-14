@@ -102,3 +102,4 @@ ENV/
 
 # caffe plot
 *.test
+*.train
